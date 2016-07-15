@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Main Page Chacks" duration-ms="93031" started-at="2016-07-12T12:46:07Z" finished-at="2016-07-12T12:47:40Z">
+    <groups>
+    </groups>
+    <test name="Test One" duration-ms="93031" started-at="2016-07-12T12:46:07Z" finished-at="2016-07-12T12:47:40Z">
+      <class name="tests.LogoChecks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.LogoChecks@1e88b3c]" name="setUp" is-config="true" duration-ms="10248" started-at="2016-07-12T15:46:24Z" finished-at="2016-07-12T15:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogo()[pri:0, instance:tests.LogoChecks@1e88b3c]" name="testLogo" duration-ms="111" started-at="2016-07-12T15:46:34Z" finished-at="2016-07-12T15:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:tests.LogoChecks@1e88b3c]" name="exit" is-config="true" duration-ms="1107" started-at="2016-07-12T15:46:34Z" finished-at="2016-07-12T15:46:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- tests.LogoChecks -->
+      <class name="tests.SearchOnSiteChecks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchOnSiteChecks@42d80b78]" name="setUp" is-config="true" duration-ms="6701" started-at="2016-07-12T15:46:35Z" finished-at="2016-07-12T15:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchOnSite()[pri:0, instance:tests.SearchOnSiteChecks@42d80b78]" name="testSearchOnSite" duration-ms="4784" started-at="2016-07-12T15:46:42Z" finished-at="2016-07-12T15:46:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchOnSite -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:tests.SearchOnSiteChecks@42d80b78]" name="exit" is-config="true" duration-ms="961" started-at="2016-07-12T15:46:47Z" finished-at="2016-07-12T15:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- tests.SearchOnSiteChecks -->
+      <class name="tests.PreviewChecks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.PreviewChecks@1bce4f0a]" name="setUp" is-config="true" duration-ms="5362" started-at="2016-07-12T15:47:08Z" finished-at="2016-07-12T15:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPreviewElements()[pri:0, instance:tests.PreviewChecks@1bce4f0a]" name="testPreviewElements" duration-ms="17590" started-at="2016-07-12T15:47:13Z" finished-at="2016-07-12T15:47:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPreviewElements -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:tests.PreviewChecks@1bce4f0a]" name="exit" is-config="true" duration-ms="924" started-at="2016-07-12T15:47:31Z" finished-at="2016-07-12T15:47:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- tests.PreviewChecks -->
+      <class name="tests.SiteInfoChecks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SiteInfoChecks@5e3a8624]" name="setUp" is-config="true" duration-ms="4831" started-at="2016-07-12T15:47:31Z" finished-at="2016-07-12T15:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSiteInfo()[pri:0, instance:tests.SiteInfoChecks@5e3a8624]" name="testSiteInfo" duration-ms="2551" started-at="2016-07-12T15:47:36Z" finished-at="2016-07-12T15:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSiteInfo -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:tests.SiteInfoChecks@5e3a8624]" name="exit" is-config="true" duration-ms="799" started-at="2016-07-12T15:47:39Z" finished-at="2016-07-12T15:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- tests.SiteInfoChecks -->
+      <class name="tests.PageLoadChecks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.PageLoadChecks@77caeb3e]" name="setUp" is-config="true" duration-ms="5776" started-at="2016-07-12T15:46:07Z" finished-at="2016-07-12T15:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPageLoad()[pri:0, instance:tests.PageLoadChecks@77caeb3e]" name="testPageLoad" duration-ms="11449" started-at="2016-07-12T15:46:12Z" finished-at="2016-07-12T15:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageLoad -->
+      </class> <!-- tests.PageLoadChecks -->
+      <class name="tests.BestPickChecks">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.BestPickChecks@3bfdc050]" name="setUp" is-config="true" duration-ms="5108" started-at="2016-07-12T15:46:48Z" finished-at="2016-07-12T15:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBestPick()[pri:0, instance:tests.BestPickChecks@3bfdc050]" name="testBestPick" duration-ms="13695" started-at="2016-07-12T15:46:53Z" finished-at="2016-07-12T15:47:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBestPick -->
+        <test-method status="PASS" signature="exit()[pri:0, instance:tests.BestPickChecks@3bfdc050]" name="exit" is-config="true" duration-ms="1010" started-at="2016-07-12T15:47:07Z" finished-at="2016-07-12T15:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- tests.BestPickChecks -->
+    </test> <!-- Test One -->
+  </suite> <!-- Main Page Chacks -->
+</testng-results>
