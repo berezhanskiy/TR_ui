@@ -1,0 +1,11 @@
+<suite name = "Main Page Chacks">
+	<listeners>
+		<listeners class-name="org.uncommons.reporting.HTMLReporter"/>
+		<listeners class-name="org.uncommons.reporting.JUnitXMLReporter"/>
+		</listeners>>
+	<test name = "Test One">
+ 	<classes>
+ 		<class name="tests.BestPickChecks"/>
+ 	</classes>
+	</test>
+</suite>
